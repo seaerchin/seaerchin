@@ -2,6 +2,10 @@
 
 ![chin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seaerchin&count_private=true&show_icons=true&theme=tokyonight)
 
+- 🔭 I’m currently working on [FormSG](https://github.com/opengovsg/FormSG/)
+- 🌱 I’m currently learning Haskell through reading Haskell Programming from First Principles
+- 👯 I’m looking to collaborate on interesting projects done using Rust/Haskell/Typescript/Golang!
+
 
 <!--
 **seaerchin/seaerchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
