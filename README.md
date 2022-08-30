@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/seaerchin/seaerchin/output/snake.svg" alt="i m a snek" />
+</div>
